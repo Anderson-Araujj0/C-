@@ -1,0 +1,15 @@
+/jwt-api
+    ├── Controllers
+    │   ├── AuthController.cs
+    │   └── UserController.cs
+    ├── Models
+    │   ├── User.cs
+    │   └── AuthRequest.cs
+    ├── Services
+    │   └── AuthService.cs
+    ├── Helpers
+    │   └── JwtHelper.cs
+    ├── appsettings.json
+    ├── Program.cs
+    ├── Startup.cs
+    └── README.md
